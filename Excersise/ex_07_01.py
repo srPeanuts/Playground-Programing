@@ -1,4 +1,4 @@
-fh = open('mbox-short.txt') 
+fh = open('Files/mbox-short.txt')
 # print(fh)
 
 for lx in fh:
