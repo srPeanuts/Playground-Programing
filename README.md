@@ -8,5 +8,3 @@
 -  📫 How to reach me? Use discord to reach me @ rudi_rudi. (with the dot)
 -  😄 Pronouns: I'm a male/Sir, i'm not mentally ill
 -  ⚡ Fun fact: I'm form Portugal I owm a self-storage company and currently expanding for another facility, and I have two dogs
-
-Teste
