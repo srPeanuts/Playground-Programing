@@ -44,7 +44,7 @@ my_dict = {'k1': 100, 'k2': 200, 'k3': 300, 'k5':{'name': 'molly', 'age': 2}}
 ## conteudo_1 = my_file.readline()                      # lê a primeira linha                  (opção ##2)
 ## conteudo_2 = my_file.readline()                      # lê a segunda linha                   (opção ##2)
 # my_file.close()                                       # ficheiro é fechado aqui !IMPORTANTE!
-# print(conteudo)                                                                             # (opção #1)
+# print(conteudo)                                                                            # (opção #1)
 # print(conteudo_1.rstrip())                                                                 # (opção ##2)
 # print(conteudo_2.rstrip())                                                                 # (opção ##2)
 
