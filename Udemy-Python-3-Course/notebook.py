@@ -57,3 +57,4 @@ my_dict = {'k1': 100, 'k2': 200, 'k3': 300, 'k5':{'name': 'molly', 'age': 2}}
 
 # with open('Importante_Files/test.txt', mode="a") as f:                  # abrir um ficheiro existente
 #     f.write('\nNext Line')                                              # adicionar/append um nova linha de texto
+
